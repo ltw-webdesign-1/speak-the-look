@@ -9,12 +9,8 @@ deliverables: "A GitHub Issue"
 ## Overview
 
 - *Fork this repository.*
-- List of tasks
-- And details
-- About the project
-- Text can be found inside the `content.txt` file.
-- **DO NOT change the HTML file.**
-- *Run it through Markbot and make sure it passes all the checks.*
+- Record yourself reading the below CSS out-loud.
+- Upload the audio file to a GitHub Issue for your teacher to hear.
 
 ---
 
