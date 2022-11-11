@@ -54,6 +54,6 @@ On GitHub’s website, on your forked repository, create an Issue labeled “Sol
 
 Read out the CSS, selectors, properties, values, etc. Here’s an example of what the recording would sound like (using different content).
 
-<audio controls src="https://assets.learn-the-web.algonquindesign.ca/web-design-1/speak-the-look.mp3"></audio>
+<audio controls src="https://assets.learntheweb.courses/web-design-1/speak-the-look.mp3"></audio>
 
 **Don’t forget to tag your teacher!**
